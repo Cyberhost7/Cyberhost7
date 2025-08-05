@@ -1,7 +1,5 @@
 ## Antonio Pedro Corredor de Sousa
 
-**`Desenvolvedor FullStack`**
-
 Tenho 24 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência de dados na Universidade Cruzeiro do Sul. Sou apaixonado e ciência por tecnologia.
 
 
