@@ -1,6 +1,6 @@
 ## Antonio Pedro Corredor de Sousa
 
-Tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência de dados na Universidade Cruzeiro do Sul. Sou apaixonado por ciência e tecnologia.
+Tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da computação na Universidade Cruzeiro do Sul. Sou apaixonado por ciência e tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
