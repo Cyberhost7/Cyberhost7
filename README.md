@@ -47,6 +47,7 @@ Tenho 25 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciênc
 ![Cyberhost7's Stats](https://github-readme-stats.vercel.app/api?username=Cyberhost7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 ![Cyberhost7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberhost7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
     
 </p>
 
